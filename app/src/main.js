@@ -7,7 +7,6 @@ import axios from 'axios'
 axios.defaults.baseURL = "https://movieapi.rezayogaswara.com"
 
 Vue.config.productionTip = false;
-
 new Vue({
   router,
   store,
