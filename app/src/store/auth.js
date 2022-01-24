@@ -51,9 +51,7 @@ export default ({
                     console.log(error);
                 });
         },
-        async attempt({
-            commit
-        }, token) {
+        async attempt({ commit }, token) {
             commit("SET_TOKEN", token)
             try {
                 let response = await axios.get('auth/me', {
@@ -70,7 +68,6 @@ export default ({
                 commit('SET_TOKEN', null)
                 commit('SET_USER', null)
             }
-
         }
     },
 });
