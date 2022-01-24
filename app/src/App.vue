@@ -1,9 +1,14 @@
 <template>
   <div id="app">
+<<<<<<< HEAD
+=======
+    <Navigation />
+>>>>>>> Updating
     <router-view />
   </div>
 </template>
 
+<<<<<<< HEAD
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -26,3 +31,14 @@
   color: #42b983;
 }
 </style>
+=======
+<script>
+// @ = ./src
+import Navigation from "@/components/Navigation"
+export default {
+  components: {
+    Navigation
+  }
+}
+</script>
+>>>>>>> Updating

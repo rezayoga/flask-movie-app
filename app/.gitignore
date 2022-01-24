@@ -2,7 +2,10 @@
 node_modules
 /dist
 
+<<<<<<< HEAD
 package-lock.json
+=======
+>>>>>>> Updating
 
 # local env files
 .env.local
@@ -22,5 +25,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> Updating
