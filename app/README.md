@@ -1,4 +1,4 @@
-# flask-movie-app
+# app
 
 ## Project setup
 ```
