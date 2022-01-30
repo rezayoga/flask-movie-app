@@ -4,7 +4,7 @@
       class="flex-col bg-base-100 rounded-box shadow-2xl justify-center hero-content sm:m-10 lg:flex-row lg:ml-40 lg:mr-40"
     >
       <div class="text-center lg:text-left lg:p-28">
-        <h1 class="mb-5 text-5xl font-bold">Welcome</h1>
+        <h1 class="mb-5 text-5xl font-bold bg-gradient-to-r from-blue-400 to-teal-600 bg-clip-text text-transparent">Welcome</h1>
         <p class="mb-5">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
           odit neque odio architecto praesentium repellendus delectus veniam
